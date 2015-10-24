@@ -9,8 +9,7 @@ REDDIT_USERNAME = '' # Bot's username
 REDDIT_PASS = '' # Bot's password
 MIN_WAIT = 60 # This is the least amount of time between bot replies. A minute, currently.
 MAX_WAIT = 1800 # This is the most amount of time between bot replies. 30 minutes, currently.
-
-SUBREDDIT_NAME = 'vennbot' # Subreddit the bot is operating on 
+SUBREDDIT_NAME = '' # Subreddit the bot is operating on 
 
 def main():
     print "Logging in..."
